@@ -20,7 +20,7 @@ body{
     align-items: center;
 
     margin-inline: auto;
-    width: 22rem;
+    max-width: 22rem;
 
     gap: 1rem;
 
